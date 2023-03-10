@@ -4,7 +4,7 @@ import requests
 
 # Получение всех постов группы ИМКТ
 def take_IMKT():
-    token = '53ce25b453ce25b453ce25b4f853b3370b553ce53ce25b431631f2080d210ce13cc286a'
+    token = 'тут ваш токен доступа для VK API'
     version = 5.92
     domain = 'imct_fefu'
     count = 100
